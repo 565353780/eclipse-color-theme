@@ -9,4 +9,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>com.github.eclipsecolortheme</artifactId>
 	<packaging>eclipse-plugin</packaging>
+
+  <!-- <dependencies> -->
+    <!-- <dependency> -->
+      <!-- <groupId>org.eclipse.swt</groupId> -->
+      <!-- <artifactId>org.eclipse.swt.win32.win32.x86_64</artifactId> -->
+      <!-- <artifactId>org.eclipse.swt.gtk.linux.x86_64</artifactId> -->
+      <!-- <version>4.3</version> -->
+    <!-- </dependency> -->
+  <!-- </dependencies> -->
+
 </project>
