@@ -1,3 +1,4 @@
+# compiled
 target
 bin
 .metadata
@@ -5,3 +6,7 @@ bin
 /com.github.eclipsecolortheme.updatesite/content.jar
 /com.github.eclipsecolortheme.updatesite/features
 /com.github.eclipsecolortheme.updatesite/plugins
+
+# copy
+/com.github.eclipsecolortheme/src/main
+/com.github.eclipsecolortheme/src/org
