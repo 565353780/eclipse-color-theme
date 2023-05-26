@@ -4,9 +4,9 @@ bin
 .metadata
 /com.github.eclipsecolortheme.updatesite/artifacts.jar
 /com.github.eclipsecolortheme.updatesite/content.jar
-/com.github.eclipsecolortheme.updatesite/features
-/com.github.eclipsecolortheme.updatesite/plugins
+/com.github.eclipsecolortheme.updatesite/features/
+/com.github.eclipsecolortheme.updatesite/plugins/
 
 # copy
-/com.github.eclipsecolortheme/src/main
-/com.github.eclipsecolortheme/src/org
+/com.github.eclipsecolortheme/src/main/
+/com.github.eclipsecolortheme/src/org/
